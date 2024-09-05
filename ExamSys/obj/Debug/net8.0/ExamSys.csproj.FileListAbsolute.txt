@@ -1,0 +1,42 @@
+D:\asp.net sec\ExamSys\ExamSys\bin\Debug\net8.0\ExamSys.exe
+D:\asp.net sec\ExamSys\ExamSys\bin\Debug\net8.0\ExamSys.deps.json
+D:\asp.net sec\ExamSys\ExamSys\bin\Debug\net8.0\ExamSys.runtimeconfig.json
+D:\asp.net sec\ExamSys\ExamSys\bin\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys\ExamSys\bin\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfoInputs.cache
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfo.cs
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.csproj.CoreCompileInputs.cache
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\refint\ExamSys.dll
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ExamSys.genruntimeconfig.cache
+D:\asp.net sec\ExamSys\ExamSys\obj\Debug\net8.0\ref\ExamSys.dll
+D:\asp.net sec\ExamSys - Copy\ExamSys\bin\Debug\net8.0\ExamSys.exe
+D:\asp.net sec\ExamSys - Copy\ExamSys\bin\Debug\net8.0\ExamSys.deps.json
+D:\asp.net sec\ExamSys - Copy\ExamSys\bin\Debug\net8.0\ExamSys.runtimeconfig.json
+D:\asp.net sec\ExamSys - Copy\ExamSys\bin\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys - Copy\ExamSys\bin\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfoInputs.cache
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfo.cs
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.csproj.CoreCompileInputs.cache
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\refint\ExamSys.dll
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ExamSys.genruntimeconfig.cache
+D:\asp.net sec\ExamSys - Copy\ExamSys\obj\Debug\net8.0\ref\ExamSys.dll
+D:\asp.net sec\ExamSys - Final\ExamSys\bin\Debug\net8.0\ExamSys.exe
+D:\asp.net sec\ExamSys - Final\ExamSys\bin\Debug\net8.0\ExamSys.deps.json
+D:\asp.net sec\ExamSys - Final\ExamSys\bin\Debug\net8.0\ExamSys.runtimeconfig.json
+D:\asp.net sec\ExamSys - Final\ExamSys\bin\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys - Final\ExamSys\bin\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfoInputs.cache
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.AssemblyInfo.cs
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.csproj.CoreCompileInputs.cache
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.dll
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\refint\ExamSys.dll
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.pdb
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ExamSys.genruntimeconfig.cache
+D:\asp.net sec\ExamSys - Final\ExamSys\obj\Debug\net8.0\ref\ExamSys.dll
