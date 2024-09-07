@@ -2,7 +2,7 @@
 _____
 Note:this is a simple C# code with the basics  
 _____
-At first the console is exciting Teacher, after the teacher fill the questions it redirect to the exam for the students.
+At first the console is expected Teacher, after the teacher fill the questions it redirect to the exam for the students.
 _____
 *I'll leave some default questions to test with it if you want*
 _____
